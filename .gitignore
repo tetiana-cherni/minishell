@@ -5,3 +5,7 @@
 libft/build/
 libft/libft.a
 /minishell
+
+# VS code settings
+.vscode/settings.json
+.vscode/launch.json
